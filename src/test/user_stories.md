@@ -11,7 +11,7 @@ so that I can use the go.bkk.hu web page, without the benefits of cookies.
 3.)
 
 As a user I can change the language,
-so that I can use my preferred langauge.
+so that I can use my preferred language.
 
 4.)
 
@@ -56,7 +56,7 @@ so that preferred vehicle types will be used.
 12.)
 
 As a user I can ask the Trip Planner,
-so that ticket can be buyed before the trip.
+so that ticket can be bought before the trip.
 
 13.)
 
@@ -75,7 +75,7 @@ so that the cycling distance (long vs. short) can be configured.
 
 16.)
 
-As a user I can see details of Suggested itineries,
+As a user I can see details of Suggested itineraries,
 so that step-by-step plan is available.
 
 17.)
