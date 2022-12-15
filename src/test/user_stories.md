@@ -44,7 +44,7 @@ so that I define From and To locations.
 9.)
 
 As a user I can easily reverse the direction,
-so tha return trip will be planned.
+so that return trip will be planned.
 
 10.)
 
